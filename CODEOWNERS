@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @luongiautinhcam
+/src/backend/database.py      @luongiautinhcam
+/src/backend/routers/auth.py  @luongiautinhcam
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @luongiautinhcam
